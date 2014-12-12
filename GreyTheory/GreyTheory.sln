@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreyTheory", "GreyTheory\GreyTheory.csproj", "{6633FD05-FC8A-48C9-85B0-903DF8ED9C58}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreyTheory.Tests", "GreyTheory.Tests\GreyTheory.Tests.csproj", "{5F61212E-5C4C-4B54-BF2B-D02965A14A78}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6633FD05-FC8A-48C9-85B0-903DF8ED9C58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6633FD05-FC8A-48C9-85B0-903DF8ED9C58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6633FD05-FC8A-48C9-85B0-903DF8ED9C58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F61212E-5C4C-4B54-BF2B-D02965A14A78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F61212E-5C4C-4B54-BF2B-D02965A14A78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F61212E-5C4C-4B54-BF2B-D02965A14A78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F61212E-5C4C-4B54-BF2B-D02965A14A78}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
